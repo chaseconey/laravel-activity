@@ -2,7 +2,6 @@
 
 namespace Chaseconey\ActivityRecorder;
 
-use App\Activity;
 use ReflectionClass;
 
 trait RecordsActivity {
