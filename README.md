@@ -1,6 +1,8 @@
 
 ## Laravel Activity Logger
 
+[![Latest Stable Version](https://poser.pugx.org/chaseconey/laravel-activity/v/stable.svg)](https://packagist.org/packages/chaseconey/laravel-activity) [![Total Downloads](https://poser.pugx.org/chaseconey/laravel-activity/downloads.svg)](https://packagist.org/packages/chaseconey/laravel-activity) [![Latest Unstable Version](https://poser.pugx.org/chaseconey/laravel-activity/v/unstable.svg)](https://packagist.org/packages/chaseconey/laravel-activity) [![License](https://poser.pugx.org/chaseconey/laravel-activity/license.svg)](https://packagist.org/packages/chaseconey/laravel-activity)
+
 A very simple activity logger build specifically for laravel that tracks actions performed by users based on
 model events.
 
