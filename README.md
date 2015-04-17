@@ -26,12 +26,14 @@ model events.
   
 3. `composer update`
 4. Publish the database migration for Activity table
+
   ```php
   php artisan vendor:publish --provider="Chaseconey\ActivityRecorder\ActivityProvider" --tag="migrations"
   ```
 5. `php artisan migrate`
 6. Add the trait to any model and enjoy!
-  ```
+
+  ```php
   
   Class Tweet extends Model
   {
