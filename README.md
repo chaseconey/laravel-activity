@@ -35,6 +35,8 @@ model events.
 
   ```php
   
+  use Chaseconey\ActivityRecorder\RecordsActivity;
+  
   Class Tweet extends Model
   {
     use RecordsActivity;
